@@ -1,0 +1,11 @@
+[
+    {
+        "question": "Install and run Visual Studio Code. In your Terminal (or Command Prompt), type code -s and press Enter. Copy and paste the entire output below.\n\nWhat is the output of code -s?",
+        "answer": "Version:          Code 1.96.2 (fabdb6a30b49f79a7aba0f2ad9df9b399473380f, 2024-12-19T10:22:47.216Z)\nOS Version:       Windows_NT x64 10.0.22631\nCPUs:             AMD Ryzen 5 5600H with Radeon Graphics          (12 x 3294)\nMemory (System):  5.86GB (0.28GB free)\nVM:               0%\nScreen Reader:    no\nProcess Argv:     . --crash-reporter-id 6a89b490-bbff-46e3-a3e6-40700b1aff55\nGPU Status:       2d_canvas:                              enabled\n                  canvas_oop_rasterization:               enabled_on\n[...]\nWorkspace Stats:\n|  Window (ChatGPT Prompt Enhancer - Visual Studio Code)\n|    Folder (ChatGPT Prompt Enhancer): 0 files\n|      File types:\n|      Conf files:"
+    },
+
+    {
+        "question": "",
+        "answer": ""
+    }
+]

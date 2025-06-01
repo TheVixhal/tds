@@ -1,5 +1,5 @@
 ```mermaid
-graph TD
+graph LR
     classDef sdk fill:#333,color:#fff,stroke:#111,stroke-width:2px;
     classDef ingestBranch fill:#1f77b4,color:#fff,stroke:#0e3c61,stroke-width:2px;
     classDef createBranch fill:#2ca02c,color:#fff,stroke:#1a4314,stroke-width:2px;
@@ -27,6 +27,5 @@ graph TD
     class Ingest,PDFFile,HTMLFile,YouTubeURL ingestBranch;
     class Create,CoT,QA,Summary createBranch;
     class SaveAs,JSONL,FT,ChatML saveasBranch;
-
 
 ```
